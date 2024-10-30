@@ -371,7 +371,7 @@ pre::-webkit-scrollbar {
     }
 
     #document {
-        margin: 0em;
+        margin: 1em 0em;
         padding: 0em 2em 1em 2em;
     }
 
