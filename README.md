@@ -8,4 +8,4 @@ https://latte72r.github.io/
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=latte72r&locale=en&layout=compact)
 
 ## Frameworks and Libraries  
-<img src="https://skillicons.dev/icons?i=arduino,gtk,jquery" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=arduino,react,nextjs,gtk,git" /> <br /><br />
