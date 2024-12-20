@@ -1,6 +1,6 @@
 # Welcome!  
 ## My Web Site
-### https://latte72r.github.io/  
+### https://latte72r.vercel.app/  
 
 ## Programming Languages  
 ![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css)  
