@@ -5,7 +5,7 @@
 ## Programming Languages  
 ![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=latte72r&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=latte72r&layout=compact)
 
 ## Frameworks and Libraries  
 <img src="https://skillicons.dev/icons?i=arduino,react,nextjs,gtk,git" /> <br /><br />
