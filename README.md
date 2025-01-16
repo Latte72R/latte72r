@@ -1,6 +1,6 @@
 # Welcome!  
 ## My Web Site
-### https://www.latte72.net/  
+### https://latte72.net/  
 
 ## Programming Languages  
 ![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css)  
