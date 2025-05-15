@@ -7,5 +7,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=latte72r&layout=compact)
 
-## Frameworks and Libraries  
-<img src="https://skillicons.dev/icons?i=react,nextjs" /> <br /><br />
+## Frameworks and Environments  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ubuntu,windows" /> <br /><br />
