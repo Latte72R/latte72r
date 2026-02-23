@@ -15,4 +15,4 @@
 
 
 ## Frameworks and Environments  
-<img src="https://skillicons.dev/icons?i=react,nextjs,ubuntu,windows" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,docker,ubuntu,windows" /> <br /><br />
