@@ -3,7 +3,7 @@
 ### https://latte72.net/  
 
 ## Programming Languages  
-![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css)  
+![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css,verilog,bash)  
 
 
 <p align="left"> 
