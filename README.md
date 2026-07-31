@@ -3,12 +3,12 @@
 ### https://latte72.net/  
 
 ## Programming Languages  
-![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css,verilog,bash)  
+![](https://skillicons.dev/icons?i=python,c,cpp,js,typescript,html,css,bash)  
 
 
 <p align="left"> 
   <img alt="Top Langs" style="height:150px; vertical-align:middle;"
- src="https://github-readme-stats.latte72r.vercel.app/api/top-langs/?username=latte72r&layout=compact&show_icons=true&theme=merko" />
+ src="https://github-readme-stats.latte72r.vercel.app/api/top-langs/?username=latte72r&layout=compact&show_icons=true&theme=merko&hide=Typst" />
   <img alt="github stats" style="height:150px; vertical-align:middle;"
  src="https://github-readme-stats.latte72r.vercel.app/api?username=latte72r&theme=merko&show_icons=true" />
 </p>
